@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumr321k&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumr321k" /> </p>
 
-- 🔭 I’m currently studying on **L0oser**
+- 🔭 I’m currently studying on **MERN**
 
 - 📝 I regularly write articles on [https://medium.com/@vishnukuttan123k](https://medium.com/@vishnukuttan123k)
 
