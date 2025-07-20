@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumr321k&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumr321k" /> </p>
 
-- 🔭 I’m currently studying **MERN**
-
-- 📝 I regularly write articles on [https://medium.com/@vishnukuttan123k](https://medium.com/@vishnukuttan123k)
+- 🔭 I’m a **MERN** **Stack Developer**
 
 - 📫 How to reach me **vishnumr321@gmail.com**
 
-- ⚡ Fun fact **People say i am a motivational speaker**
+- ⚡ Fun fact **People say i am Creative Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
