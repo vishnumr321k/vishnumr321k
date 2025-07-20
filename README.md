@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vishnumr321@gmail.com**
 
-- ⚡ Fun fact **People say i am Creative Person**
+- ⚡ Fun fact **People say I’m  a Creative Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
